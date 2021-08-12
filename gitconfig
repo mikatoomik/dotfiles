@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = mika@atoomik.fr
+	email = mikael@atoomik.fr
 	name = mikael autheman
